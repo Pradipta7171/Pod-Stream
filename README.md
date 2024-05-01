@@ -1,10 +1,10 @@
 # Podstream
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/rishavchanda/Podstream)
-![GitHub forks](https://img.shields.io/github/forks/rishavchanda/Podstream)
-![GitHub starts](https://img.shields.io/github/stars/rishavchanda/Podstream)
-![GitHub license](https://img.shields.io/github/license/rishavchanda/Podstream)
+![GitHub issues](https://img.shields.io/github/issues/Pradipta7171/Podstream)
+![GitHub forks](https://img.shields.io/github/forks/Pradipta7171/Podstream)
+![GitHub starts](https://img.shields.io/github/stars/Pradipta7171/Podstream)
+![GitHub license](https://img.shields.io/github/license/Pradipta7171/Podstream)
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
 ![CSS](https://img.shields.io/badge/CSS-Styles-pink)
@@ -68,9 +68,6 @@ Start the server
 ```
 npm start
 ```
-### Here is live demo of our web app:
-
-[Screencast from 27-04-23 07:21:38 PM IST.webm](https://user-images.githubusercontent.com/64485885/234887002-60554cc9-c298-42bd-a310-42334f8717a8.webm)
 
 
 ### Here are some pictures of the web application:
