@@ -1,10 +1,7 @@
 # Podstream
 <div align='center'>
 
-![GitHub issues](https://img.shields.io/github/issues/Pradipta7171/Podstream)
-![GitHub forks](https://img.shields.io/github/forks/Pradipta7171/Podstream)
-![GitHub starts](https://img.shields.io/github/stars/Pradipta7171/Podstream)
-![GitHub license](https://img.shields.io/github/license/Pradipta7171/Podstream)
+
 ![Javascript](https://img.shields.io/badge/Javascript-Language-yellow)
 ![HTML](https://img.shields.io/badge/HTML-Hypertext-red)
 ![CSS](https://img.shields.io/badge/CSS-Styles-pink)
@@ -14,7 +11,6 @@
 
 ## Podcast Streaming Application
 
-### Deployed Link : [View Webapp](https://podstream.netlify.app/)
 
 ### This is a web application for streaming podcasts with the following features:
 - User authentication
